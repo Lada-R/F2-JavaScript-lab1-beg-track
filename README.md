@@ -13,3 +13,9 @@ comments. Be sure to read everything. Run lab.js with `node lab1.js`.
 
 
 #### Resources and Collaborators
+1. Split method  - http://www.w3schools.com/jsref/jsref_split.asp and 
+2. Split method  - http://stackoverflow.com/questions/96428/how-do-i-split-a-string-breaking-at-a-particular-character
+3. JavaScript Array join() Method - http://www.w3schools.com/jsref/jsref_join.asp
+4. Math.random() - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+5. JavaScript String concat() Method - http://www.w3schools.com/jsref/jsref_concat_string.asp
+6. Yoda conditions - https://en.wikipedia.org/wiki/Yoda_conditions
